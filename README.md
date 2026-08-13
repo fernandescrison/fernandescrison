@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Crison Fernandes 👋
 
-<!--
-**fernandescrison/fernandescrison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### BCA Student | Aspiring Cybersecurity Professional
 
-Here are some ideas to get you started:
+I'm a second-year Bachelor of Computer Applications (BCA) student currently exploring the world of cybersecurity and technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 I'm interested in learning how systems, networks, applications, and data can be protected.
+
+💻 Currently learning:
+- C
+- Python
+- HTML & CSS
+- DBMS
+- Linux
+- Computer Networking
+
+🚀 Future learning goals:
+- Ethical Hacking
+- Web Security
+- Cloud Security
+- Cybersecurity Fundamentals
+- More areas of cybersecurity
+
+📚 I'm focused on building strong fundamentals, creating practical projects, and documenting my learning journey on GitHub.
+
+🎯 Long-term goal: Build a career in cybersecurity and gain international professional experience.
+
+### Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/crison-fernandes-73a55b428/
